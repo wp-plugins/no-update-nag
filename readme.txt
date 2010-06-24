@@ -1,9 +1,9 @@
 === No Update Nag ===
 Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
-Tags: admin, updates, nag, coffee2code
+Tags: admin, updates, nag, notices, coffee2code
 Requires at least: 2.5
-Tested up to: 2.9.1
+Tested up to: 3.0
 Stable tag: 1.1.1
 Version: 1.1.1
 
@@ -44,7 +44,7 @@ Within the context of your WordPress admin, the footer of your admin pages will 
 
 = 1.1.1 =
 * Update readme.txt, including adding Changelog section
-* Note compatibility through WP 2.9+
+* Note compatibility through WP 2.9+, 3.0+
 * Update copyright date
 
 = 1.1 =
